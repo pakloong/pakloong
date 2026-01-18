@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything which deemed intersting.
 - 📫 How to reach me ... just ping me?
 - Checkout my data analyst profile at https://github.com/pakloong/data_analyst_profile
+- Checkout my data engineer profile at https://github.com/pakloong/data_engineer_profile
 <!---
 pakloong/pakloong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
